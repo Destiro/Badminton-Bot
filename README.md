@@ -1,2 +1,2 @@
-# Discord-Echo
-Discord bot that can join voice channels, queue and play music from both Spotify and Youtube.
+# Badminton-Bot
+A discord bot that reads emails from a badminton club, pings users as reminders about badminton bookings.
