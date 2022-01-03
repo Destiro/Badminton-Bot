@@ -1,0 +1,22 @@
+{
+  "name": "discord-echo",
+  "version": "1.0.0",
+  "description": "Discord bot that can join voice channels, queue and play music from both Spotify and Youtube.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Destiro/Discord-Echo.git"
+  },
+  "author": "Connor de Bruyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Destiro/Discord-Echo/issues"
+  },
+  "homepage": "https://github.com/Destiro/Discord-Echo#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0"
+  }
+}
